@@ -122,10 +122,8 @@ section {
     color: white;
 }
 
-@media screen and (max-width: 768px) {
-    .section-reference-info {
-        text-align: left;
-    }
+.section-reference-info {
+    text-align: left;
 }
 
 .lead {
