@@ -111,7 +111,26 @@ section {
     /* Space out the Bootstrap <hr> more */
 }
 
+.work-blcok{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
 
+}
+.work-title{
+    padding-right: 15px;
+    
+}
+.work-title--position{
+    display: block;
+}
+.work-title--info{
+    display: block;
+    font-size: 75%;
+}
+.work-company{
+    font-size: 85%;
+}
 /*REFERENCES*/
 
 .section-reference {
