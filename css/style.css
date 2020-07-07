@@ -114,11 +114,12 @@ section {
 .work-blcok{
     display: flex;
     align-items: center;
-    margin-bottom: 15px;
-
+    margin-bottom: 20px;
 }
+
 .work-title{
-    padding-right: 15px;
+    margin-right: 15px;
+    border-bottom: 2px dashed #e67e22;
     
 }
 .work-title--position{
@@ -224,7 +225,7 @@ section {
     text-align: left;
     box-shadow: 4px 3px 8px 0px rgba(120, 121, 120, 0.493);
     margin-bottom: 20px;
-    height: 180px;
+    height: auto;
 }
 
 .project__card--page {
