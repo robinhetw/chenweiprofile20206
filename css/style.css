@@ -123,6 +123,7 @@ section {
 }
 .work-title--position{
     display: block;
+    white-space: nowrap;
 }
 .work-title--info{
     display: block;
